@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/85642364/123110492-d157f800-d444-11eb-8ce7-3e67c8879b58.png)
+![image](https://user-images.githubusercontent.com/85642364/123110682-fba9b580-d444-11eb-8786-b82e76337b80.png)
 
 
 калькулятор має змогу виконувати основні арифметичні функції (+,-,/,*)* а також додадкові, такі як sin,cos,log та інші
