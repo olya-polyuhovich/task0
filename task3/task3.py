@@ -3,7 +3,7 @@ import http.client
 
 win=Tk()
 win.title("covid info")
-win.geometry("600x450")
+win.geometry("600x300")
 
 #загальна функція
 def refresh():
